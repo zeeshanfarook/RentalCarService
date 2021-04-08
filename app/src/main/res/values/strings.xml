@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rental Car Service</string>
+    <string name="tvLoginPage">Manager Login</string>
+    <string name="etUsername">Enter Username</string>
+    <string name="etPassword">Enter Password</string>
+    <string name="btnSignIn">Sign In</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="btnClear">Clear</string>
+    <string name="tvSelectDriver">Select Driver</string>
+
+    <string-array name="spinnerDrivers">
+        <item>Alpha</item>
+        <item>Bravo</item>
+        <item>Charlie</item>
+    </string-array>
+
+
+</resources>
