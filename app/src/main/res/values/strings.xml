@@ -1,14 +1,20 @@
 <resources>
     <string name="app_name">Rental Car Service</string>
-    <string name="tvLoginPage">Manager Login</string>
+    <string name="tvLoginPage">Login</string>
     <string name="etUsername">Enter Username</string>
     <string name="etPassword">Enter Password</string>
     <string name="btnSignIn">Sign In</string>
     <string name="btnSignUp">Sign Up</string>
     <string name="btnClear">Clear</string>
     <string name="tvSelectDriver">Select Driver</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_username_here">Enter Username here..</string>
+    <string name="sign_up_here">Sign Up Here</string>
 
-    <string-array name="spinnerDrivers">
+    <string-array name="list_names">
         <item>Alpha</item>
         <item>Bravo</item>
         <item>Charlie</item>

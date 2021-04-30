@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.os.Handler;
 
 public class SplachScreen extends AppCompatActivity {
-    private final int SPLASH_TIMEOUT = 4000; // time in miliseconds
+    private final int SPLASH_TIMEOUT = 2000; // time in miliseconds
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
